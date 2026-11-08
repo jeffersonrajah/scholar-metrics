@@ -1,40 +1,203 @@
 [
   {
     "date": "2026-10-27",
-    "text": "Submitted my PhD thesis, titled Bringing People into Integrated Assessment Models: Constructing Endogenous Representations of Human Behaviour, to the Department of Geography, University of Bergen.",
+    "text": "Submitted my PhD Thesis, titled *Bringing People into Integrated Assessment Models: Constructing Endogenous Representations of Human Behaviour*, to the Department of Geography, University of Bergen.",
     "archive": true
   },
   {
     "date": "2026-07-21",
     "text": "Awarded the Dana Meadows Award Honorable Mention for the second time at the 2026 International System Dynamics Conference.",
-    "source": "WorldTrans",
-    "url": "https://worldtrans-horizon.eu/2026/08/10/honoured-at-the-international-system-dynamics-conference/",
+    "related": [
+      {
+        "title": "Honoured at the international System Dynamics conference",
+        "venue": "WorldTrans News Archive · Aug 10, 2026",
+        "url": "https://worldtrans-horizon.eu/2026/08/10/honoured-at-the-international-system-dynamics-conference/",
+        "image": "https://jeffersonrajah.com/wp-content/uploads/2026/11/worldtrans-honoured-isdc-2026-b.jpg",
+        "alt": "Preview image for: Honoured at the international System Dynamics conference",
+        "label": "WorldTrans"
+      },
+      {
+        "title": "2026 Award Winners at the International System Dynamics Conference",
+        "venue": "wiSDom System Dynamics Blog, System Dynamics Society · Aug 2026",
+        "url": "https://systemdynamics.org/2026-award-winners-at-the-international-system-dynamics-conference/",
+        "image": "https://jeffersonrajah.com/wp-content/uploads/2026/11/wisdom-2026-award-winners.jpg",
+        "alt": "Preview image for: 2026 Award Winners at the International System Dynamics Conference"
+      }
+    ],
     "archive": true
   },
   {
     "date": "2026-05-15",
-    "text": "My System Dynamics Review paper on feedback stories ranked within the top 10% of most-viewed papers published in 2024.",
+    "text": "*A systematic method to integrate co-produced causal loop diagrams based on feedback stories* ranked within the top 10% of most-viewed papers published in *System Dynamics Review* in 2024.",
     "source": "Read",
     "url": "https://doi.org/10.1002/sdr.1794",
     "archive": true
   },
   {
     "date": "2026-04-03",
-    "text": "My System Dynamics Review paper on feedback stories was named among the top 10 most-cited papers published in 2024.",
+    "text": "*A systematic method to integrate co-produced causal loop diagrams based on feedback stories* named among the top 10 most-cited papers published in *System Dynamics Review* in 2024.",
     "source": "Read",
     "url": "https://doi.org/10.1002/sdr.1794",
     "archive": true
   },
   {
     "date": "2026-02-01",
-    "text": "Published a structured curriculum combining feedback-story analysis with Loops That Matter in System Dynamics Review.",
-    "source": "Read",
-    "url": "https://doi.org/10.1002/sdr.70018",
+    "text": "Published a structured curriculum combining feedback-story analysis with Loops That Matter in *System Dynamics Review*.",
+    "article": "10.1002/sdr.70018",
+    "archive": true
+  },
+  {
+    "date": "2025-09-16",
+    "text": "Published the culmination of my modelling work as lead modeller for the Behavioural Change module of FRIDA, in *Geoscientific Model Development*.",
+    "article": "10.5194/gmd-18-5997-2025",
     "archive": true
   },
   {
     "date": "2025-08-04",
     "text": "Received the Dana Meadows Award Honorable Mention (USD 500) at the 2025 International System Dynamics Conference.",
+    "related": [
+      {
+        "title": "Anna R. Siemer and Jefferson K. Rajah win two prestigious awards at the 2025 International System Dynamics Conference",
+        "venue": "System Dynamics, News Archive, University of Bergen · Aug 15, 2025",
+        "url": "https://www4.uib.no/en/research/research-groups/system-dynamics/featured/anna-r-siemer-and-jefferson-k-rajah-win-two-prestigious-awards-at-the-2025-international-system-dynamics-conference",
+        "image": "https://jeffersonrajah.com/wp-content/uploads/2026/11/uib-two-awards-isdc-2025.jpg",
+        "alt": "Anna R. Siemer and Jefferson K. Rajah, University of Bergen news post"
+      },
+      {
+        "title": "2025 Award Winners at the International System Dynamics Conference",
+        "venue": "wiSDom System Dynamics Blog, System Dynamics Society · Aug 2025",
+        "url": "https://systemdynamics.org/2025-award-winners-at-the-international-system-dynamics-conference/",
+        "image": "https://jeffersonrajah.com/wp-content/uploads/2026/11/wisdom-2025-award-winners.jpg",
+        "alt": "Preview image for: 2025 Award Winners at the International System Dynamics Conference"
+      }
+    ],
+    "archive": true
+  },
+  {
+    "date": "2025-03-06",
+    "text": "Awarded the L. Meltzer Universitetsstiftelse Prosjektstipend (NOK 73,300) as principal investigator for *Engaging stakeholders to democratise integrated assessment modelling for climate mitigation*.",
+    "archive": true
+  },
+  {
+    "date": "2024-11-26",
+    "text": "Published my first methodological contribution to the field’s flagship journal, *System Dynamics Review*, on feedback-story analysis as a method for integrating causal loop diagrams.",
+    "article": "10.1002/sdr.1794",
+    "archive": true
+  },
+  {
+    "date": "2024-11-12",
+    "text": "Began teaching *System Dynamics Modelling Process* (GEO-SD304) as instructor of record, after three years as its teaching assistant.",
+    "archive": true
+  },
+  {
+    "date": "2024-07-12",
+    "text": "Graduated my first Master’s student as principal supervisor, Benedikt Tusch, whose thesis built a conceptual system dynamics model of pro-environmental behaviour change and contributes to my WorldTrans work.",
+    "source": "Read",
+    "url": "https://hdl.handle.net/11250/3152641",
+    "archive": true
+  },
+  {
+    "date": "2023-08-31",
+    "text": "Re-appointed to the System Dynamics Programme Board as the PhD representative, University of Bergen.",
+    "archive": true
+  },
+  {
+    "date": "2023-07-23",
+    "text": "A semester project I supervised, by Anna R. Siemer, led to a co-authored paper presented as a Student Plenary at the student-organized colloquium of the International System Dynamics Conference in Chicago: *Modeling public transportation attractiveness in system dynamics: The significance of safety perception*.",
+    "source": "Watch",
+    "url": "https://www.youtube.com/watch?v=dwu801Pvdzk",
+    "archive": true
+  },
+  {
+    "date": "2023-05-13",
+    "text": "Invited by European Young Engineers to run a Beer Game workshop at their 50th conference in The Hague, Netherlands: *Brewing success: Learning to manage supply chains with the Beer Game*.",
+    "archive": true
+  },
+  {
+    "date": "2023-04-01",
+    "text": "Began my PhD at the University of Bergen as a Research Fellow in the EU Horizon Europe project [WorldTrans](https://worldtrans-horizon.eu), working on participatory integrated assessment modelling.",
+    "related": [
+      {
+        "title": "Towards a Post-Normal Integrated Assessment Modelling Praxis to Democratise Climate Policy Response",
+        "venue": "System Dynamics, University of Bergen · Oct 3, 2023",
+        "url": "https://www.uib.no/en/rg/dynamics/165215/towards-post-normal-integrated-assessment-modelling-praxis-democratise-climate",
+        "image": "https://jeffersonrajah.com/wp-content/uploads/2026/11/uib-phd-project-page.jpg",
+        "alt": "Jefferson Rajah, PhD candidate in System Dynamics, University of Bergen"
+      }
+    ],
+    "archive": true
+  },
+  {
+    "date": "2023-02-21",
+    "text": "Accepted the offer of a PhD Research Fellow position at the System Dynamics Group, University of Bergen.",
+    "related": [
+      {
+        "title": "System dynamics in practice; social research at heart.",
+        "venue": "Blog post on reflecting on my journey to the PhD · Feb 7, 2023",
+        "url": "https://jeffersonrajah.com/2023/02/07/system-dynamics-in-practice-social-research-at-heart/",
+        "image": "https://jeffersonrajah.com/wp-content/uploads/2023/03/screenshot-2022-04-28-at-2.46.46-pm-416009239-e1678555883590.png",
+        "alt": "Preview image for the blog post: System dynamics in practice; social research at heart."
+      }
+    ],
+    "archive": true
+  },
+  {
+    "date": "2023-01-03",
+    "text": "Published my first system dynamics journal article, from my Master’s thesis, in a special issue of *Systems* on System Dynamics Models for Public Health and Health Care Policy, edited by pioneering public health system dynamics modellers Jack Homer and Gary Hirsch.",
+    "article": "10.3390/systems11010022",
+    "archive": true
+  },
+  {
+    "date": "2022-08-23",
+    "text": "Defended my Master’s thesis, *Enabling Mobility for Persons with Major Lower-Limb Amputations: A Model-based Study of the Impact of Digital Prosthetics Service Provision on Mobility Outcomes*, and was awarded the MPhil in System Dynamics, University of Bergen.",
+    "source": "Read",
+    "url": "https://hdl.handle.net/11250/3013376",
+    "archive": true
+  },
+  {
+    "date": "2022-08-22",
+    "text": "Started teaching my first course as instructor of record, *Fundamentals of Dynamic Social Systems* (GEO-SD302), Department of Geography, University of Bergen.",
+    "archive": true
+  },
+  {
+    "date": "2022-06-10",
+    "text": "Nominated as student speaker and delivered the graduation speech at the Faculty of Social Sciences Master’s Graduation Ceremony, University of Bergen.",
+    "related": [
+      {
+        "title": "Jefferson Rajah gives graduation speech at SV Graduation Ceremony 2022",
+        "venue": "System Dynamics, News Archive, University of Bergen · Jun 24, 2022",
+        "url": "https://www.uib.no/en/rg/dynamics/161318/jefferson-rajah-gives-graduation-speech-sv-graduation-ceremony-2022",
+        "image": "https://jeffersonrajah.com/wp-content/uploads/2026/11/uib-graduation-speech-2022.jpg",
+        "alt": "Graduation ceremony, Faculty of Social Sciences, University of Bergen"
+      }
+    ],
+    "archive": true
+  },
+  {
+    "date": "2022-01-30",
+    "text": "Appointed as Volunteer Coordinator on the International System Dynamics Conference Organizing Committee.",
+    "archive": true
+  },
+  {
+    "date": "2021-08-23",
+    "text": "Began teaching as a teaching assistant for all three first-semester courses in the MPhil in System Dynamics, University of Bergen.",
+    "archive": true
+  },
+  {
+    "date": "2021-07-30",
+    "text": "Presented my first system dynamics model, built for GEO-SD304 coursework, at my first International System Dynamics Conference: *Where Has the Passion Gone? The Dynamics of Non-Profit Workers’ Passion Burnout and Intention to Leave*.",
+    "source": "Read",
+    "url": "https://proceedings.systemdynamics.org/2021/papers/P1073.pdf",
+    "archive": true
+  },
+  {
+    "date": "2020-11-23",
+    "text": "Elected to the System Dynamics Programme Board as the Master’s student representative, University of Bergen.",
+    "archive": true
+  },
+  {
+    "date": "2020-08-17",
+    "text": "Began my MPhil in System Dynamics at the University of Bergen.",
     "archive": true
   }
 ]
