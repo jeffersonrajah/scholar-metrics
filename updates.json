@@ -1,14 +1,40 @@
 [
   {
-    "date": "2026-10",
-    "text": "Submitted my PhD thesis on Oct 27 to the Department of Geography, University of Bergen. Evaluation committee appointed Oct 30."
+    "date": "2026-10-27",
+    "text": "Submitted my PhD thesis, titled Bringing People into Integrated Assessment Models: Constructing Endogenous Representations of Human Behaviour, to the Department of Geography, University of Bergen.",
+    "archive": true
   },
   {
-    "date": "2026-08",
-    "text": "Awarded the Dana Meadows Award Honorable Mention for the second time at the 2026 International System Dynamics Conference."
+    "date": "2026-07-21",
+    "text": "Awarded the Dana Meadows Award Honorable Mention for the second time at the 2026 International System Dynamics Conference.",
+    "source": "WorldTrans",
+    "url": "https://worldtrans-horizon.eu/2026/08/10/honoured-at-the-international-system-dynamics-conference/",
+    "archive": true
   },
   {
-    "date": "2025-08",
-    "text": "Received the Dana Meadows Award Honorable Mention (US$500 cash prize) at the 2025 International System Dynamics Conference."
+    "date": "2026-05-15",
+    "text": "My System Dynamics Review paper on feedback stories ranked within the top 10% of most-viewed papers published in 2024.",
+    "source": "Read",
+    "url": "https://doi.org/10.1002/sdr.1794",
+    "archive": true
+  },
+  {
+    "date": "2026-04-03",
+    "text": "My System Dynamics Review paper on feedback stories was named among the top 10 most-cited papers published in 2024.",
+    "source": "Read",
+    "url": "https://doi.org/10.1002/sdr.1794",
+    "archive": true
+  },
+  {
+    "date": "2026-02-01",
+    "text": "Published a structured curriculum combining feedback-story analysis with Loops That Matter in System Dynamics Review.",
+    "source": "Read",
+    "url": "https://doi.org/10.1002/sdr.70018",
+    "archive": true
+  },
+  {
+    "date": "2025-08-04",
+    "text": "Received the Dana Meadows Award Honorable Mention (USD 500) at the 2025 International System Dynamics Conference.",
+    "archive": true
   }
 ]
