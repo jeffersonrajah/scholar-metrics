@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-09",
   "profile_url": "https://scholar.google.com/citations?user=ggyjcXoAAAAJ&hl=en",
-  "citations": 137,
+  "citations": 143,
   "h_index": 7,
   "i10_index": 6,
   "publications": [
@@ -36,9 +36,9 @@
     {
       "title": "The representation of climate impacts in the FRIDAv2.1 Integrated Assessment Model",
       "year": "2026",
-      "citations": 10,
+      "citations": 12,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ggyjcXoAAAAJ&pagesize=100&citation_for_view=ggyjcXoAAAAJ:k_IJM867U9cC",
-      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=66898113541985301,14916254281523454971,10288650083946991001,7928237678910387891"
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=66898113541985301,14916254281523454971,12411818858432285576,6449610793688383156,10288650083946991001,7928237678910387891"
     },
     {
       "title": "Enabling mobility: a simulation model of the health care system for major lower-limb amputees to assess the impact of digital prosthetics services",
@@ -60,6 +60,13 @@
       "citations": 5,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ggyjcXoAAAAJ&pagesize=100&citation_for_view=ggyjcXoAAAAJ:hMod-77fHWUC",
       "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11936484442612136104,14112559729957415853"
+    },
+    {
+      "title": "Conceptualising an endogenous representation of human behaviour change in a feedback-based, global-scale integrated assessment model",
+      "year": "2024",
+      "citations": 4,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ggyjcXoAAAAJ&pagesize=100&citation_for_view=ggyjcXoAAAAJ:EUQCXRtRnyEC",
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6449787403410933081"
     },
     {
       "title": "Human behavioural drivers of meat consumption: Using group model building to capture lived realities",
