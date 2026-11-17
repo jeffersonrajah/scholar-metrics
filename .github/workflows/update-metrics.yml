@@ -2,7 +2,7 @@ name: Update Scholar metrics
 
 on:
   schedule:
-    - cron: "0 6 * * 2"   # every Tuesday at 06:00 UTC
+    - cron: "43 0 * * 2"   # every Tuesday at 00:43 UTC (01:43 Bergen in winter, 02:43 in summer)
   workflow_dispatch:
 
 permissions:
